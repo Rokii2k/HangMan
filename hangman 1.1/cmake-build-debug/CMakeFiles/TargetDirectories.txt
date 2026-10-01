@@ -1,0 +1,3 @@
+C:/Users/danje/CLionProjects/hangman 1.1/cmake-build-debug/CMakeFiles/hangman_1_1.dir
+C:/Users/danje/CLionProjects/hangman 1.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/danje/CLionProjects/hangman 1.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
